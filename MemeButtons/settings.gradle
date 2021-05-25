@@ -1,0 +1,2 @@
+rootProject.name='Meme Buttons'
+include ':app'
